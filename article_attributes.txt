@@ -1,0 +1,477 @@
+"article";"productgroup";"category";"cost";"style";"sizes";"gender";"rgb_r_main_col";"rgb_g_main_col";"rgb_b_main_col";"rgb_r_sec_col";"rgb_g_sec_col";"rgb_b_sec_col"
+"OC6355";"SHOES";"TRAINING";13.29;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;104;57;255;187;255
+"AP5568";"SHORTS";"TRAINING";2.29;"regular";"xxs,xs,s,m,l,xl,xxl";"women";188;238;104;255;187;255
+"CB8861";"HARDWARE ACCESSORIES";"GOLF";1.7;"regular";"xxs,xs,s,m,l,xl,xxl";"women";205;173;0;255;187;255
+"LI3529";"SHOES";"RUNNING";9;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";205;140;149;164;211;238
+"GG8661";"SHOES";"RELAX CASUAL";9.6;"regular";"xxs,xs,s,m,l,xl,xxl";"women";138;43;226;164;211;238
+"TX1463";"SWEATSHIRTS";"TRAINING";4.2;"wide";"xxs,xs,s,m,l,xl,xxl";"women";79;148;205;164;211;238
+"PC6383";"SHOES";"FOOTBALL GENERIC";9.9;"wide";"xs,s,m,l,xl";"unisex";139;26;26;205;155;155
+"VT7698";"SHOES";"INDOOR";5.2;"wide";"xxs,xs,s,m,l,xl,xxl";"women";135;206;250;205;155;155
+"FG2965";"HARDWARE ACCESSORIES";"RUNNING";1.29;"slim";"xxs,xs,s,m,l,xl,xxl";"women";181;181;181;205;155;155
+"AC7347";"SHOES";"FOOTBALL GENERIC";8.7;"regular";"xxs,xs,s,m,l,xl,xxl";"men";139;137;137;205;155;155
+"VH1588";"SHOES";"TENNIS";7.8;"wide";"xs,s,m,l,xl";"women";180;205;205;250;235;215
+"ZE9366";"SHORTS";"RUNNING";3.1;"regular";"xs,s,m,l,xl";"women";143;143;143;250;235;215
+"EZ8648";"T-SHIRTS";"TRAINING";2.5;"slim";"xxs,xs,s,m,l,xl";"kids";238;197;145;250;235;215
+"QK7994";"SHOES";"RUNNING";8.6;"slim";"xs,s,m,l";"women";255;250;240;250;235;215
+"IR3275";"SHORTS";"FOOTBALL LICENSED";2.7;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";174;238;238;205;133;63
+"PY2718";"SHOES";"OUTDOOR";12.6;"slim";"xxs,xs,s,m,l,xl";"women";205;173;0;205;133;63
+"JC1565";"SHOES";"INDOOR";5.9;"regular";"xs,s,m,l,xl";"kids";74;112;139;205;133;63
+"JY1726";"SWEATSHIRTS";"TRAINING";4.1;"regular";"xs,s,m,l,xl";"kids";238;180;34;205;133;63
+"RE3197";"SHORTS";"BASKETBALL GENERIC";2.4;"wide";"xxs,xs,s,m,l";"women";248;248;255;69;139;116
+"GP3497";"HARDWARE ACCESSORIES";"RUNNING";1.6;"wide";"xxs,xs,s,m,l,xl,xxl";"women";255;140;105;69;139;116
+"TX8432";"SHOES";"INDOOR";6.3;"regular";"s,m,l,xl";"kids";255;174;185;69;139;116
+"OU2254";"T-SHIRTS";"RUNNING";2.7;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";0;104;139;69;139;116
+"SW2464";"SHOES";"FOOTBALL GENERIC";8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";143;143;143;69;139;116
+"HM5731";"SHOES";"FOOTBALL GENERIC";11.8;"wide";"xs,s,m,l";"unisex";141;182;205;69;139;116
+"AJ7542";"SHOES";"RUNNING";8.29;"slim";"s,m,l,xl";"unisex";168;168;168;115;115;115
+"KI5716";"HARDWARE ACCESSORIES";"INDOOR";4.1;"slim";"xxs,xs,s,m,l,xl";"women";255;245;238;115;115;115
+"XB1815";"HARDWARE ACCESSORIES";"RUNNING";1.4;"slim";"s,m,l,xl";"kids";139;121;94;115;115;115
+"QO7834";"SHOES";"RUNNING";7.9;"regular";"xxs,xs,s,m,l,xl,xxl";"men";255;174;185;115;115;115
+"WZ7972";"SHOES";"TRAINING";5.7;"slim";"xxs,xs,s,m,l,xl,xxl";"women";214;214;214;115;115;115
+"FV6234";"PANTS";"TRAINING";3.1;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";154;205;50;0;154;205
+"LR5226";"SHORTS";"TRAINING";2.29;"regular";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;0;154;205
+"CA2479";"HARDWARE ACCESSORIES";"SWIM";0.7;"regular";"xxs,xs,s,m,l,xl,xxl";"women";180;205;205;0;154;205
+"LU6658";"SHORTS";"RUNNING";2.9;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";54;54;54;0;154;205
+"VT1698";"HARDWARE ACCESSORIES";"TRAINING";1.5;"regular";"xs,s,m,l";"kids";255;174;185;0;154;205
+"EC5317";"SHOES";"INDOOR";6.3;"wide";"xs,s,m,l,xl";"women";209;209;209;0;154;205
+"PY1419";"SHORTS";"TENNIS";3.8;"regular";"xxs,xs,s,m,l,xl,xxl";"women";174;238;238;131;139;131
+"SC5839";"PANTS";"TRAINING";3.3;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";72;118;255;131;139;131
+"GP6821";"T-SHIRTS";"FOOTBALL LICENSED";2.1;"regular";"xxs,xs,s,m,l";"unisex";188;238;104;131;139;131
+"GR1127";"HARDWARE ACCESSORIES";"TRAINING";2.1;"slim";"s,m,l,xl";"women";240;128;128;131;139;131
+"ZW6694";"SHOES";"RUNNING";10;"slim";"s,m,l,xl";"men";122;197;205;131;139;131
+"TN7113";"SHOES";"FOOTBALL GENERIC";11.5;"wide";"xxs,xs,s,m,l,xl,xxl";"women";127;127;127;131;139;131
+"ET7242";"SHORTS";"TRAINING";3;"regular";"xxs,xs,s,m,l,xl,xxl";"women";139;137;137;245;245;245
+"DH6848";"HARDWARE ACCESSORIES";"RUNNING";1.7;"slim";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;245;245;245
+"PW7632";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.4;"regular";"xs,s,m,l,xl";"women";205;96;144;245;245;245
+"TS8227";"SHOES";"TRAINING";4.2;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;198;115;245;245;245
+"QM3774";"SHOES";"FOOTBALL GENERIC";8.1;"regular";"xxs,xs,s,m,l,xl,xxl";"men";0;154;205;245;245;245
+"OT2311";"HARDWARE ACCESSORIES";"TRAINING";9.1;"regular";"xxs,xs,s,m,l,xl,xxl";"women";54;54;54;245;245;245
+"AA7884";"SWEATSHIRTS";"TRAINING";4.3;"slim";"xxs,xs,s,m,l,xl,xxl";"men";205;155;155;245;245;245
+"GC8114";"SHOES";"INDOOR";4.2;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";0;154;205;245;245;245
+"YI3589";"SHOES";"BASKETBALL GENERIC";9.8;"regular";"s,m,l,xl,xxl";"kids";238;149;114;245;245;245
+"VK5535";"SHOES";"INDOOR";9.8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";192;255;62;205;104;57
+"FF7283";"SHOES";"RUNNING";8.8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;140;149;205;104;57
+"AN4895";"HARDWARE ACCESSORIES";"INDOOR";4.1;"regular";"xxs,xs,s,m,l,xl";"women";214;214;214;205;104;57
+"IF7337";"SHOES";"ORIGINALS";6.9;"slim";"xxs,xs,s,m,l,xl";"unisex";238;220;130;139;10;80
+"VD4566";"PANTS";"OUTDOOR";7;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";205;201;201;139;10;80
+"BE2333";"SHOES";"TRAINING";5.4;"wide";"xs,s,m,l";"women";139;69;0;154;205;50
+"NL2136";"SHOES";"OUTDOOR";7.7;"slim";"xxs,xs,s,m,l,xl";"unisex";205;41;144;154;205;50
+"KJ9185";"SHOES";"RUNNING";9.6;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";250;235;215;154;205;50
+"AT7497";"SHORTS";"FOOTBALL LICENSED";2.5;"wide";"xxs,xs,s,m,l,xl,xxl";"women";214;214;214;154;205;50
+"MA7179";"SHORTS";"FOOTBALL LICENSED";2.6;"slim";"xs,s,m,l,xl";"kids";139;76;57;154;205;50
+"KO9295";"SHOES";"FOOTBALL GENERIC";10.2;"slim";"s,m,l,xl";"men";139;121;94;154;205;50
+"QT2338";"SHOES";"DRESS CASUAL";6.6;"slim";"xxs,xs,s,m,l,xl,xxl";"men";238;106;167;154;205;50
+"BX9481";"SHOES";"TRAINING";5.4;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";179;238;58;154;205;50
+"VE4993";"SHORTS";"RUNNING";3.1;"slim";"xxs,xs,s,m,l,xl,xxl";"women";0;245;255;154;205;50
+"CA2199";"SHOES";"OUTDOOR";8.4;"wide";"xs,s,m,l,xl";"men";205;183;158;154;205;50
+"LX1494";"HARDWARE ACCESSORIES";"GOLF";1.2;"wide";"xxs,xs,s,m,l,xl,xxl";"women";255;255;240;238;180;34
+"ST3419";"SHOES";"RUNNING";9.29;"wide";"xs,s,m,l";"women";158;158;158;238;180;34
+"ZT1211";"SHORTS";"FOOTBALL LICENSED";2.9;"slim";"xxs,xs,s,m,l,xl";"men";138;43;226;238;180;34
+"NY6781";"HARDWARE ACCESSORIES";"TRAINING";9.29;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;173;0;238;180;34
+"VW9933";"SHOES";"RUNNING";9.6;"slim";"xxs,xs,s,m,l,xl,xxl";"women";115;115;115;238;180;34
+"VR2932";"SHOES";"INDOOR";3.8;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";205;16;118;238;180;34
+"EH5694";"SHOES";"OUTDOOR";7.3;"slim";"xs,s,m,l,xl";"kids";205;155;155;238;180;34
+"XI5411";"SHOES";"FOOTBALL GENERIC";4.9;"wide";"s,m,l,xl";"women";238;233;191;238;180;34
+"YN8639";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.6;"regular";"xxs,xs,s,m,l,xl,xxl";"women";79;79;79;238;180;34
+"JB4241";"SHOES";"TRAINING";4.9;"regular";"xxs,xs,s,m,l,xl,xxl";"women";107;107;107;162;181;205
+"HB1693";"SHOES";"TRAINING";5.1;"regular";"xs,s,m,l,xl";"women";205;133;63;162;181;205
+"KF7243";"SHOES";"OUTDOOR";8.4;"regular";"xxs,xs,s,m,l,xl,xxl";"women";205;173;0;162;181;205
+"HQ9691";"SHOES";"RELAX CASUAL";12.2;"regular";"xxs,xs,s,m,l,xl,xxl";"women";107;107;107;162;181;205
+"DM6477";"SHOES";"TRAINING";4.5;"regular";"xxs,xs,s,m,l,xl,xxl";"men";69;139;116;162;181;205
+"OF8158";"SHORTS";"RUNNING";3.2;"slim";"xxs,xs,s,m,l,xl,xxl";"women";218;165;32;162;181;205
+"NB5887";"SHORTS";"FOOTBALL LICENSED";2.8;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";181;181;181;162;181;205
+"RP9222";"SHOES";"OUTDOOR";8.7;"slim";"s,m,l,xl";"women";72;118;255;162;181;205
+"PV4787";"SHOES";"FOOTBALL GENERIC";13.59;"regular";"xxs,xs,s,m,l,xl,xxl";"men";238;197;145;205;51;51
+"FE4648";"T-SHIRTS";"TRAINING";2.4;"regular";"xs,s,m,l,xl,xxl";"unisex";13;13;13;205;51;51
+"XR5464";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.6;"slim";"s,m,l,xl";"women";145;44;238;205;51;51
+"ON6325";"PANTS";"RUNNING";4.5;"wide";"xxs,xs,s,m,l,xl,xxl";"women";158;158;158;205;51;51
+"CX1431";"T-SHIRTS";"TRAINING";2.19;"slim";"xxs,xs,s,m,l,xl,xxl";"women";24;116;205;205;51;51
+"MI6988";"T-SHIRTS";"RUNNING";2.7;"regular";"xxs,xs,s,m,l";"unisex";135;135;135;255;130;71
+"BF7459";"T-SHIRTS";"RUNNING";3.6;"regular";"xxs,xs,s,m,l,xl,xxl";"women";209;209;209;255;130;71
+"VC4517";"T-SHIRTS";"TRAINING";1.9;"regular";"xxs,xs,s,m,l,xl,xxl";"men";238;197;145;255;130;71
+"JC5886";"SHOES";"TRAINING";5.6;"regular";"xxs,xs,s,m,l,xl,xxl";"women";36;36;36;255;130;71
+"TL9924";"SHOES";"TRAINING";5.2;"regular";"s,m,l,xl,xxl";"women";135;206;250;255;130;71
+"VX6536";"SHOES";"FOOTBALL GENERIC";10.8;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";255;245;238;255;130;71
+"RC5832";"SHORTS";"FOOTBALL LICENSED";2.8;"slim";"xs,s,m,l";"women";50;205;50;139;26;26
+"NT3648";"SHOES";"RUNNING";9.1;"regular";"xs,s,m,l,xl,xxl";"women";0;197;205;139;26;26
+"NK4915";"HARDWARE ACCESSORIES";"RUNNING";1.6;"slim";"xxs,xs,s,m,l,xl,xxl";"women";238;230;133;139;26;26
+"TO2769";"SWEATSHIRTS";"TRAINING";3.9;"regular";"xxs,xs,s,m,l,xl,xxl";"men";0;205;0;139;26;26
+"WB8526";"SHOES";"RUNNING";9.6;"regular";"xxs,xs,s,m,l,xl,xxl";"women";209;238;238;205;173;0
+"UX6816";"SHORTS";"TRAINING";2.29;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";205;145;158;205;173;0
+"YL7926";"SHOES";"ORIGINALS";7.3;"wide";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;205;173;0
+"FK7423";"SHORTS";"TENNIS";2.5;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";238;180;34;205;173;0
+"GW8244";"SHOES";"TRAINING";7.3;"wide";"xxs,xs,s,m,l";"men";248;248;255;205;173;0
+"PV7587";"SHORTS";"RUNNING";3.1;"wide";"s,m,l,xl";"women";145;145;145;205;173;0
+"SG5828";"SHOES";"RUNNING";9.9;"wide";"xxs,xs,s,m,l,xl,xxl";"women";58;95;205;205;173;0
+"UD3728";"PANTS";"RUNNING";4.4;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";164;211;238;139;69;0
+"VS6613";"PANTS";"TRAINING";2.9;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;155;29;139;69;0
+"EU1121";"SWEATSHIRTS";"TRAINING";4.3;"regular";"xxs,xs,s,m,l,xl,xxl";"women";255;140;105;139;69;0
+"BC1489";"SHOES";"INDOOR";4.5;"regular";"xs,s,m,l";"women";0;205;0;139;69;0
+"VY6942";"SHORTS";"TENNIS";3.1;"slim";"xxs,xs,s,m,l,xl";"kids";84;139;84;139;69;0
+"UM7314";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.7;"slim";"xs,s,m,l,xl";"women";95;158;160;238;106;167
+"WB3769";"SHOES";"TRAINING";5;"wide";"xs,s,m,l,xl,xxl";"women";255;192;203;180;238;180
+"SO4773";"SHORTS";"TRAINING";2.19;"wide";"xxs,xs,s,m,l,xl,xxl";"women";250;128;114;180;238;180
+"GT5685";"SHOES";"FOOTBALL GENERIC";8.5;"wide";"xxs,xs,s,m,l,xl,xxl";"women";84;139;84;180;238;180
+"RV9228";"T-SHIRTS";"TRAINING";2.1;"regular";"xxs,xs,s,m,l,xl,xxl";"men";205;133;63;238;229;222
+"YX2167";"SHORTS";"FOOTBALL LICENSED";2.6;"slim";"xxs,xs,s,m,l,xl,xxl";"women";189;189;189;238;229;222
+"GR3986";"SHOES";"RUNNING";9.2;"slim";"s,m,l,xl,xxl";"women";139;26;26;79;148;205
+"BI5591";"SHORTS";"RUNNING";3.1;"regular";"xxs,xs,s,m,l,xl";"unisex";95;158;160;79;148;205
+"KY7934";"SHORTS";"GOLF";4.5;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";141;182;205;79;148;205
+"RH5979";"PANTS";"TRAINING";3.1;"regular";"xxs,xs,s,m,l,xl,xxl";"men";205;51;51;79;148;205
+"UB1117";"SWEATSHIRTS";"RUNNING";4.5;"slim";"xxs,xs,s,m,l,xl,xxl";"men";0;205;205;79;148;205
+"YG9479";"SHORTS";"TENNIS";2.7;"slim";"xxs,xs,s,m,l,xl,xxl";"women";74;112;139;79;148;205
+"QS5396";"T-SHIRTS";"TRAINING";2;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";250;128;114;79;148;205
+"AX5913";"HARDWARE ACCESSORIES";"SWIM";1;"slim";"xxs,xs,s,m,l,xl,xxl";"women";145;145;145;79;148;205
+"RO5412";"SHOES";"FOOTBALL GENERIC";3.9;"regular";"xs,s,m,l";"women";135;135;135;145;145;145
+"IM2273";"SHOES";"RUNNING";9.6;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";139;26;26;145;145;145
+"CB4942";"SHORTS";"TRAINING";2.1;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";58;95;205;145;145;145
+"YR6479";"PANTS";"NEO";2.6;"regular";"xxs,xs,s,m,l,xl,xxl";"women";122;197;205;250;128;114
+"JI2453";"SHORTS";"FOOTBALL GENERIC";2.7;"slim";"xs,s,m,l,xl";"women";141;182;205;250;128;114
+"JA4544";"HARDWARE ACCESSORIES";"TRAINING";3;"slim";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;250;128;114
+"GZ1752";"SHOES";"RUNNING";7.1;"slim";"xxs,xs,s,m,l,xl,xxl";"women";255;250;240;250;128;114
+"TY9287";"SHOES";"OUTDOOR";10.1;"slim";"s,m,l,xl,xxl";"women";255;192;203;255;240;245
+"WP4135";"HARDWARE ACCESSORIES";"RUNNING";1.4;"slim";"s,m,l,xl,xxl";"women";84;139;84;255;240;245
+"SV7732";"SHOES";"RUNNING";9.1;"regular";"xxs,xs,s,m,l,xl,xxl";"men";255;250;240;255;240;245
+"HZ4826";"SHOES";"RUNNING";12.6;"wide";"xs,s,m,l,xl";"men";214;214;214;255;240;245
+"QB1247";"SHOES";"ACTION SPORTS";4.7;"wide";"xxs,xs,s,m,l,xl,xxl";"women";139;76;57;255;240;245
+"OW5968";"SHOES";"ORIGINALS";6.6;"wide";"xxs,xs,s,m,l,xl,xxl";"women";127;127;127;13;13;13
+"XF4182";"T-SHIRTS";"TRAINING";3.1;"wide";"s,m,l,xl";"unisex";191;191;191;13;13;13
+"VF7316";"HARDWARE ACCESSORIES";"TRAINING";3.3;"wide";"xxs,xs,s,m,l,xl,xxl";"women";139;10;80;13;13;13
+"LL7287";"SHOES";"RUNNING";11;"regular";"xxs,xs,s,m,l,xl";"kids";139;121;94;13;13;13
+"LH8921";"SHOES";"TRAINING";4.8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";255;174;185;13;13;13
+"PW6278";"SHOES";"OUTDOOR";5.8;"regular";"s,m,l,xl";"unisex";238;230;133;13;13;13
+"HN7357";"SHOES";"RUNNING";8.7;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";192;255;62;13;13;13
+"PB1483";"SHOES";"TENNIS";4.9;"wide";"xxs,xs,s,m,l,xl,xxl";"women";138;43;226;13;13;13
+"LU3394";"T-SHIRTS";"TRAINING";2.19;"wide";"xxs,xs,s,m,l,xl,xxl";"women";79;79;79;191;191;191
+"JG6384";"SHOES";"TRAINING";7;"wide";"xxs,xs,s,m,l,xl,xxl";"women";54;100;139;191;191;191
+"FO4538";"HARDWARE ACCESSORIES";"TRAINING";3.6;"wide";"xxs,xs,s,m,l,xl";"kids";180;205;205;191;191;191
+"SW4387";"HARDWARE ACCESSORIES";"TRAINING";8.9;"wide";"xs,s,m,l,xl";"kids";179;238;58;191;191;191
+"WE4646";"T-SHIRTS";"RUNNING";4;"slim";"xs,s,m,l";"women";205;133;63;74;112;139
+"GG3324";"SHOES";"FOOTBALL GENERIC";8.7;"wide";"xs,s,m,l,xl,xxl";"unisex";115;115;115;74;112;139
+"NS7357";"SWEATSHIRTS";"RUNNING";5.6;"wide";"xs,s,m,l,xl,xxl";"women";238;229;222;74;112;139
+"AH6675";"SWEATSHIRTS";"TRAINING";4.1;"slim";"s,m,l,xl";"kids";36;36;36;58;95;205
+"OJ4847";"SHOES";"RUNNING";8.4;"slim";"xxs,xs,s,m,l,xl";"kids";238;220;130;58;95;205
+"AA8941";"SHOES";"TENNIS";6.3;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";238;149;114;58;95;205
+"VP7827";"SHORTS";"TRAINING";1.9;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";122;197;205;58;95;205
+"XF3362";"SHOES";"OUTDOOR";8.4;"regular";"xs,s,m,l,xl,xxl";"kids";122;197;205;139;101;8
+"ZI6739";"SHOES";"RUNNING";9.1;"wide";"xs,s,m,l";"men";205;198;115;139;101;8
+"NK3982";"PANTS";"OUTDOOR";7;"slim";"xxs,xs,s,m,l,xl";"unisex";218;112;214;139;101;8
+"MM4542";"SHOES";"RUNNING";9.2;"regular";"xxs,xs,s,m,l,xl,xxl";"men";238;197;145;139;101;8
+"AZ5221";"HARDWARE ACCESSORIES";"RUNNING";1.6;"slim";"xxs,xs,s,m,l";"women";84;139;84;205;198;115
+"FK6357";"HARDWARE ACCESSORIES";"TRAINING";2.1;"slim";"xs,s,m,l";"men";107;107;107;205;198;115
+"NY5947";"HARDWARE ACCESSORIES";"SWIM";0.6;"regular";"xxs,xs,s,m,l";"women";54;100;139;205;198;115
+"QU7755";"HARDWARE ACCESSORIES";"GOLF";2.6;"regular";"xxs,xs,s,m,l,xl";"men";248;248;255;205;198;115
+"VY8476";"PANTS";"OUTDOOR";5.3;"regular";"xxs,xs,s,m,l,xl,xxl";"women";0;197;205;205;198;115
+"DI9187";"T-SHIRTS";"TRAINING";2;"slim";"xxs,xs,s,m,l,xl,xxl";"women";74;112;139;205;145;158
+"LG5858";"SWEATSHIRTS";"TRAINING";3.9;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";180;238;180;205;145;158
+"XN6238";"HARDWARE ACCESSORIES";"SWIM";1;"wide";"xxs,xs,s,m,l,xl,xxl";"women";135;206;250;205;96;144
+"BE9148";"SHOES";"RUNNING";8.9;"regular";"xxs,xs,s,m,l";"women";218;112;214;205;96;144
+"DY1673";"SHOES";"RUNNING";9.2;"regular";"xxs,xs,s,m,l,xl,xxl";"women";255;140;105;205;96;144
+"ZK4922";"T-SHIRTS";"TRAINING";2.29;"wide";"xxs,xs,s,m,l,xl,xxl";"women";209;238;238;205;96;144
+"VY8356";"PANTS";"TRAINING";3.2;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";79;148;205;139;121;94
+"NM4424";"SHOES";"OUTDOOR";8;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";205;173;0;139;121;94
+"BF9848";"SHORTS";"FOOTBALL GENERIC";2;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";245;245;245;139;121;94
+"ML2223";"SHOES";"RUNNING";10.7;"regular";"xxs,xs,s,m,l,xl,xxl";"women";122;197;205;139;121;94
+"NJ3895";"SHOES";"BASKETBALL GENERIC";10.5;"slim";"xxs,xs,s,m,l,xl,xxl";"women";79;148;205;139;121;94
+"MR4948";"HARDWARE ACCESSORIES";"TRAINING";2.1;"wide";"xs,s,m,l,xl";"women";24;116;205;24;116;205
+"BZ4828";"SHORTS";"TENNIS";3;"slim";"xxs,xs,s,m,l,xl,xxl";"women";83;134;139;24;116;205
+"AM4669";"SWEATSHIRTS";"FOOTBALL GENERIC";3.3;"wide";"xs,s,m,l,xl,xxl";"unisex";238;106;167;24;116;205
+"PE2872";"SHOES";"RELAX CASUAL";7;"regular";"xxs,xs,s,m,l,xl,xxl";"men";0;205;0;24;116;205
+"ZX2294";"SHOES";"RUNNING";7.6;"slim";"xxs,xs,s,m,l,xl,xxl";"women";255;187;255;255;174;185
+"CQ8153";"SWEATSHIRTS";"OUTDOOR";6.6;"regular";"xs,s,m,l,xl,xxl";"kids";238;220;130;54;54;54
+"JR7981";"HARDWARE ACCESSORIES";"SWIM";0.5;"slim";"xxs,xs,s,m,l,xl,xxl";"women";79;79;79;54;54;54
+"KE3772";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.9;"wide";"xs,s,m,l,xl";"women";162;181;205;54;54;54
+"PH9161";"SHOES";"FOOTBALL GENERIC";9.7;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";127;127;127;54;54;54
+"GJ5184";"SHOES";"TENNIS";8.29;"regular";"xxs,xs,s,m,l,xl";"kids";127;127;127;54;54;54
+"UR7332";"T-SHIRTS";"TRAINING";2.5;"regular";"xxs,xs,s,m,l,xl,xxl";"women";139;26;26;54;54;54
+"TS8911";"SHOES";"OUTDOOR";8.4;"wide";"xs,s,m,l,xl,xxl";"women";83;134;139;54;54;54
+"OE7548";"SHORTS";"TRAINING";2.4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;155;29;84;139;84
+"PQ6379";"HARDWARE ACCESSORIES";"TRAINING";2.8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";36;36;36;84;139;84
+"VL9749";"SWEATSHIRTS";"TRAINING";4.3;"wide";"s,m,l,xl,xxl";"women";24;116;205;138;43;226
+"DD1361";"SHOES";"TRAINING";5.3;"regular";"xs,s,m,l,xl,xxl";"women";192;255;62;138;43;226
+"MW9292";"PANTS";"OUTDOOR";6.3;"wide";"xs,s,m,l";"women";205;155;155;138;43;226
+"OK8155";"PANTS";"TRAINING";3;"slim";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;138;43;226
+"ZR3493";"SHORTS";"RUNNING";3.3;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";255;187;255;138;43;226
+"GL8661";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.7;"regular";"xs,s,m,l,xl,xxl";"men";238;197;145;138;43;226
+"IL7684";"HARDWARE ACCESSORIES";"RUNNING";1.09;"regular";"xxs,xs,s,m,l,xl,xxl";"women";107;107;107;138;43;226
+"HM8568";"SHOES";"RUNNING";9.1;"wide";"s,m,l,xl,xxl";"women";50;205;50;205;140;149
+"XT5836";"SHOES";"FOOTBALL GENERIC";12.3;"wide";"xxs,xs,s,m,l";"men";205;133;63;205;140;149
+"OP1184";"HARDWARE ACCESSORIES";"TRAINING";2.29;"slim";"xxs,xs,s,m,l,xl,xxl";"men";255;140;105;205;140;149
+"BH9952";"SHORTS";"FOOTBALL GENERIC";2.4;"slim";"xxs,xs,s,m,l,xl";"kids";255;140;105;205;140;149
+"ZS4134";"SHORTS";"FOOTBALL LICENSED";2.7;"wide";"s,m,l,xl,xxl";"kids";238;197;145;205;140;149
+"WM7783";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.6;"slim";"s,m,l,xl,xxl";"women";205;198;115;205;140;149
+"FU5676";"SHOES";"FOOTBALL GENERIC";11.9;"regular";"xxs,xs,s,m,l,xl,xxl";"women";205;16;118;205;140;149
+"TW8762";"SHORTS";"TRAINING";1.7;"slim";"xxs,xs,s,m,l";"women";174;238;238;205;140;149
+"IW7978";"SHOES";"TRAINING";5;"wide";"xxs,xs,s,m,l,xl,xxl";"women";162;181;205;141;182;205
+"DK3634";"HARDWARE ACCESSORIES";"SWIM";0.5;"regular";"xxs,xs,s,m,l,xl,xxl";"women";205;16;118;141;182;205
+"OY4474";"PANTS";"TRAINING";3.3;"wide";"s,m,l,xl";"women";255;250;240;141;182;205
+"LL3852";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.5;"wide";"xxs,xs,s,m,l,xl";"unisex";192;255;62;141;182;205
+"XB3134";"SWEATSHIRTS";"TRAINING";4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";214;214;214;141;182;205
+"EN9438";"SHOES";"TRAINING";4.7;"slim";"s,m,l,xl,xxl";"kids";145;44;238;141;182;205
+"PN1714";"SHOES";"RUNNING";8.7;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";250;235;215;141;182;205
+"KF6572";"HARDWARE ACCESSORIES";"TRAINING";4.1;"wide";"xxs,xs,s,m,l";"unisex";135;135;135;141;182;205
+"QX5316";"PANTS";"OUTDOOR";6.3;"regular";"xxs,xs,s,m,l";"unisex";205;129;98;141;182;205
+"VT3516";"HARDWARE ACCESSORIES";"SWIM";0.4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";189;189;189;205;129;98
+"LC1964";"SHORTS";"RUNNING";3.1;"wide";"xxs,xs,s,m,l";"women";24;116;205;205;129;98
+"BC6932";"PANTS";"OUTDOOR";5.9;"slim";"xs,s,m,l,xl";"kids";162;181;205;218;112;214
+"ZU5523";"SHOES";"FOOTBALL GENERIC";10.3;"slim";"xxs,xs,s,m,l,xl,xxl";"women";24;116;205;218;112;214
+"CH6937";"SWEATSHIRTS";"TRAINING";4.9;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";205;41;144;238;197;145
+"FB5424";"SHORTS";"FOOTBALL LICENSED";2.7;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";139;101;8;238;197;145
+"MD2664";"SHORTS";"FOOTBALL LICENSED";2.4;"wide";"s,m,l,xl,xxl";"women";145;145;145;238;197;145
+"XO7333";"HARDWARE ACCESSORIES";"RUNNING";1.4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";0;154;205;238;197;145
+"JN4924";"HARDWARE ACCESSORIES";"SWIM";0.5;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";255;250;240;238;197;145
+"FP2228";"SHOES";"RUNNING";8.1;"wide";"s,m,l,xl,xxl";"women";255;187;255;238;197;145
+"RX1584";"T-SHIRTS";"RUNNING";3;"slim";"xxs,xs,s,m,l,xl,xxl";"women";220;220;220;83;134;139
+"YV6825";"SHOES";"TRAINING";6.7;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;183;158;83;134;139
+"RJ3725";"SHOES";"TRAINING";4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";135;206;250;83;134;139
+"ZB7415";"HARDWARE ACCESSORIES";"TRAINING";5.3;"wide";"xxs,xs,s,m,l,xl,xxl";"women";255;140;105;83;134;139
+"XK8557";"SHOES";"OUTDOOR";7.7;"wide";"xxs,xs,s,m,l,xl,xxl";"women";115;115;115;83;134;139
+"ZK3537";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.7;"slim";"xxs,xs,s,m,l,xl";"women";84;139;84;83;134;139
+"WP4574";"HARDWARE ACCESSORIES";"GOLF";0.9;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;133;63;83;134;139
+"KJ7255";"PANTS";"GOLF";3.1;"slim";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;83;134;139
+"VK4838";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.6;"wide";"xxs,xs,s,m,l,xl,xxl";"women";238;180;180;83;134;139
+"AR4473";"SHOES";"STELLA";11.9;"regular";"xxs,xs,s,m,l";"kids";181;181;181;83;134;139
+"DW8683";"HARDWARE ACCESSORIES";"RUNNING";1.4;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";250;235;215;139;76;57
+"ZZ2466";"SHOES";"TRAINING";6.4;"regular";"xxs,xs,s,m,l,xl,xxl";"women";174;238;238;139;76;57
+"WR9459";"SHOES";"TRAINING";5.8;"slim";"s,m,l,xl,xxl";"women";13;13;13;139;76;57
+"YD2684";"HARDWARE ACCESSORIES";"NEO";1.4;"regular";"s,m,l,xl,xxl";"women";191;191;191;205;201;201
+"TJ1277";"SHORTS";"FOOTBALL LICENSED";2.7;"slim";"xxs,xs,s,m,l";"men";143;143;143;205;201;201
+"KT2132";"SHOES";"RUNNING";8.7;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;173;0;205;201;201
+"ZR8112";"SHOES";"FOOTBALL GENERIC";4.7;"regular";"xs,s,m,l,xl";"women";245;245;245;72;118;255
+"MQ6248";"SHOES";"OUTDOOR";5.6;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";107;107;107;72;118;255
+"QD2412";"SHOES";"OUTDOOR";7;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";0;245;255;72;118;255
+"IQ1913";"SHOES";"FOOTBALL GENERIC";9.9;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";255;192;203;238;220;130
+"OV5561";"HARDWARE ACCESSORIES";"SWIM";1.09;"wide";"xs,s,m,l";"women";0;205;0;238;220;130
+"WK5365";"SHORTS";"TRAINING";1.9;"regular";"xxs,xs,s,m,l";"women";220;220;220;248;248;255
+"XG6449";"HARDWARE ACCESSORIES";"TRAINING";2.4;"slim";"xs,s,m,l,xl";"kids";238;197;145;248;248;255
+"XF4642";"T-SHIRTS";"RUNNING";3.7;"slim";"xs,s,m,l,xl,xxl";"unisex";139;121;94;248;248;255
+"HD1628";"SHOES";"CLASSICS";5.9;"regular";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;248;248;255
+"LI5748";"PANTS";"TRAINING";3.4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";164;211;238;238;230;133
+"RS3662";"SHORTS";"RUNNING";3;"slim";"xs,s,m,l";"men";214;214;214;238;230;133
+"KL1526";"HARDWARE ACCESSORIES";"TRAINING";7.4;"regular";"xxs,xs,s,m,l,xl,xxl";"women";238;220;130;238;230;133
+"TK4862";"SHOES";"FOOTBALL GENERIC";8.2;"wide";"xs,s,m,l,xl";"women";139;137;137;238;230;133
+"EI1264";"SHOES";"RUNNING";9.7;"regular";"xxs,xs,s,m,l,xl,xxl";"men";36;36;36;238;230;133
+"BZ8791";"T-SHIRTS";"RUNNING";3.1;"regular";"xxs,xs,s,m,l,xl,xxl";"women";255;187;255;127;127;127
+"XS4279";"SHOES";"GOLF";5.5;"regular";"xxs,xs,s,m,l,xl,xxl";"women";189;189;189;127;127;127
+"LI6472";"T-SHIRTS";"RUNNING";4;"slim";"s,m,l,xl";"women";83;134;139;127;127;127
+"MK5273";"SHOES";"TRAINING";7;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";54;54;54;127;127;127
+"KT8964";"SHORTS";"GOLF";4.5;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;140;149;127;127;127
+"VJ8341";"SHOES";"OUTDOOR";10.2;"regular";"xs,s,m,l,xl";"kids";220;220;220;0;205;0
+"VM7772";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.4;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";205;198;115;0;205;0
+"EN1199";"PANTS";"FOOTBALL GENERIC";2.4;"slim";"xxs,xs,s,m,l,xl,xxl";"men";205;51;51;0;205;0
+"QO8312";"SHOES";"FOOTBALL GENERIC";9.2;"slim";"xxs,xs,s,m,l";"unisex";115;115;115;0;205;0
+"QP2819";"HARDWARE ACCESSORIES";"RUNNING";1.7;"wide";"xs,s,m,l,xl";"men";13;13;13;0;205;0
+"PP8845";"SHOES";"TENNIS";8.1;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";69;139;116;0;205;0
+"PT2992";"SHORTS";"SLVR";6.3;"wide";"xxs,xs,s,m,l,xl,xxl";"men";218;165;32;0;205;0
+"BI5643";"T-SHIRTS";"RUNNING";2.9;"regular";"xs,s,m,l,xl,xxl";"women";139;10;80;95;158;160
+"KZ9384";"HARDWARE ACCESSORIES";"INDOOR";4.1;"slim";"xxs,xs,s,m,l,xl,xxl";"women";84;139;84;95;158;160
+"QL6154";"HARDWARE ACCESSORIES";"TRAINING";4.1;"regular";"xxs,xs,s,m,l,xl,xxl";"women";0;104;139;95;158;160
+"WB3723";"SHOES";"OUTDOOR";9.8;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";255;240;245;255;140;105
+"AL9977";"PANTS";"TRAINING";2.9;"slim";"s,m,l,xl";"kids";218;165;32;255;140;105
+"AR1923";"PANTS";"TRAINING";3;"regular";"xxs,xs,s,m,l,xl,xxl";"men";135;135;135;255;140;105
+"RN5619";"SHORTS";"TRAINING";2.1;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";188;238;104;255;140;105
+"EM9513";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.7;"wide";"xxs,xs,s,m,l,xl,xxl";"men";220;220;220;255;140;105
+"SF1988";"SHOES";"FOOTBALL GENERIC";11.3;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";255;250;240;255;140;105
+"BS7795";"T-SHIRTS";"TRAINING";2;"regular";"xxs,xs,s,m,l,xl,xxl";"men";205;150;205;255;140;105
+"FP7124";"HARDWARE ACCESSORIES";"GOLF";4.2;"wide";"xxs,xs,s,m,l,xl,xxl";"women";54;54;54;107;107;107
+"EL3283";"HARDWARE ACCESSORIES";"SWIM";1;"regular";"s,m,l,xl,xxl";"women";54;100;139;107;107;107
+"AX5971";"SHOES";"FOOTBALL GENERIC";4.6;"regular";"xs,s,m,l,xl,xxl";"women";162;181;205;107;107;107
+"TC9631";"PANTS";"TRAINING";3.3;"regular";"xs,s,m,l,xl";"kids";127;127;127;107;107;107
+"VS2118";"PANTS";"PORSCHE";15.39;"wide";"xxs,xs,s,m,l";"women";154;205;50;107;107;107
+"LY8874";"SHOES";"TRAINING";5.5;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";122;197;205;107;107;107
+"GA4832";"SWEATSHIRTS";"RUNNING";5.3;"regular";"xxs,xs,s,m,l,xl,xxl";"women";54;100;139;209;238;238
+"WV8337";"SHOES";"FOOTBALL GENERIC";10.5;"slim";"xxs,xs,s,m,l,xl,xxl";"women";139;121;94;209;238;238
+"EB5477";"SHOES";"RELAX CASUAL";8.4;"regular";"s,m,l,xl,xxl";"women";141;182;205;209;238;238
+"UJ4517";"SHORTS";"RUNNING";2.8;"regular";"s,m,l,xl,xxl";"women";58;95;205;209;238;238
+"RF6397";"SHOES";"TRAINING";4.1;"wide";"s,m,l,xl,xxl";"men";13;13;13;209;238;238
+"SJ4545";"HARDWARE ACCESSORIES";"SWIM";1;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";248;248;255;209;238;238
+"IW8485";"SWEATSHIRTS";"OUTDOOR";6.3;"wide";"xxs,xs,s,m,l,xl,xxl";"women";54;100;139;209;238;238
+"WT9578";"HARDWARE ACCESSORIES";"RUNNING";1.4;"slim";"xxs,xs,s,m,l,xl";"women";205;140;149;158;158;158
+"HU6228";"SHORTS";"TENNIS";2.8;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";214;214;214;158;158;158
+"RN7483";"SHOES";"INDOOR";5.6;"wide";"xs,s,m,l";"women";139;101;8;158;158;158
+"DW2429";"HARDWARE ACCESSORIES";"GOLF";1.8;"slim";"s,m,l,xl";"unisex";205;133;63;158;158;158
+"AQ1643";"SHOES";"RUNNING";8.6;"regular";"s,m,l,xl,xxl";"unisex";205;96;144;145;44;238
+"DM6271";"SHOES";"ACTION SPORTS";5.6;"slim";"s,m,l,xl";"unisex";218;112;214;145;44;238
+"YN2747";"HARDWARE ACCESSORIES";"TRAINING";1.7;"wide";"xxs,xs,s,m,l";"kids";158;158;158;145;44;238
+"JK5796";"SHORTS";"FOOTBALL LICENSED";2.6;"slim";"xxs,xs,s,m,l";"men";245;245;245;122;197;205
+"UG2991";"SHORTS";"FOOTBALL GENERIC";2;"wide";"xs,s,m,l,xl";"men";181;181;181;238;149;114
+"JW4878";"PANTS";"TRAINING";3;"slim";"xs,s,m,l";"women";139;69;0;238;149;114
+"IH1672";"SHOES";"OUTDOOR";10.5;"wide";"xxs,xs,s,m,l,xl,xxl";"men";192;255;62;238;149;114
+"BM9116";"HARDWARE ACCESSORIES";"RUNNING";1.6;"wide";"xxs,xs,s,m,l,xl";"unisex";139;136;120;238;149;114
+"HJ9196";"HARDWARE ACCESSORIES";"GOLF";2.9;"regular";"xs,s,m,l,xl,xxl";"women";107;107;107;238;149;114
+"HZ9888";"SHORTS";"TRAINING";2.29;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";139;136;120;238;149;114
+"RJ5552";"SHOES";"INDOOR";3.5;"wide";"xxs,xs,s,m,l,xl,xxl";"women";180;238;180;255;250;240
+"VG1586";"SHOES";"FOOTBALL GENERIC";11.9;"slim";"xxs,xs,s,m,l,xl,xxl";"men";54;54;54;255;250;240
+"PQ6953";"PANTS";"GOLF";5;"regular";"xxs,xs,s,m,l,xl,xxl";"women";238;229;222;255;250;240
+"XG3252";"SHOES";"FOOTBALL GENERIC";15.39;"slim";"xs,s,m,l,xl,xxl";"women";83;134;139;255;250;240
+"TA7629";"SHORTS";"FOOTBALL GENERIC";2.7;"regular";"xxs,xs,s,m,l,xl,xxl";"women";135;206;250;135;206;250
+"FE6662";"T-SHIRTS";"TRAINING";2.4;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";138;43;226;135;206;250
+"AF5746";"T-SHIRTS";"OUTDOOR";4.5;"wide";"xs,s,m,l,xl,xxl";"women";0;104;139;135;206;250
+"PQ6773";"SHORTS";"TENNIS";2.6;"wide";"xxs,xs,s,m,l,xl,xxl";"men";135;135;135;135;206;250
+"LB9256";"SHOES";"RUNNING";9.5;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";255;192;203;135;206;250
+"ZM8792";"SHOES";"OUTDOOR";10.8;"regular";"xxs,xs,s,m,l,xl,xxl";"women";95;158;160;135;206;250
+"MC3398";"SHOES";"RUNNING";9.6;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";181;181;181;205;183;158
+"LD1896";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.4;"slim";"xxs,xs,s,m,l";"unisex";205;155;29;205;183;158
+"TR1972";"SHOES";"FOOTBALL GENERIC";12.89;"wide";"xs,s,m,l,xl,xxl";"women";139;137;137;205;183;158
+"XK6846";"SHOES";"TRAINING";6;"regular";"xs,s,m,l,xl,xxl";"men";139;10;80;205;183;158
+"MZ9561";"SHORTS";"FOOTBALL LICENSED";2.6;"wide";"xxs,xs,s,m,l,xl";"men";143;143;143;205;183;158
+"YR2438";"SHOES";"FOOTBALL GENERIC";5.9;"wide";"xxs,xs,s,m,l,xl,xxl";"women";255;187;255;205;183;158
+"QO5375";"HARDWARE ACCESSORIES";"SWIM";0.4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;173;0;205;183;158
+"DB3258";"HARDWARE ACCESSORIES";"SWIM";0.9;"regular";"xxs,xs,s,m,l,xl,xxl";"women";145;44;238;205;183;158
+"EL6462";"SHOES";"TRAINING";6.6;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";79;79;79;0;245;255
+"GT2628";"SWEATSHIRTS";"TRAINING";6.3;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";139;121;94;0;245;255
+"ZX8794";"SHOES";"NEO";3.4;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";139;69;0;0;245;255
+"AZ6626";"SHOES";"RUNNING";10.8;"slim";"xs,s,m,l,xl,xxl";"unisex";174;238;238;0;245;255
+"KV2454";"SHOES";"OUTDOOR";7;"regular";"xxs,xs,s,m,l,xl,xxl";"men";250;128;114;0;245;255
+"ZJ5718";"HARDWARE ACCESSORIES";"SWIM";1.09;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";238;229;222;0;245;255
+"IA4131";"SHOES";"DRESS CASUAL";6.3;"regular";"xs,s,m,l";"kids";0;104;139;139;136;120
+"RF2926";"HARDWARE ACCESSORIES";"GOLF";1.4;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";205;155;155;139;136;120
+"SW7987";"SHORTS";"RUNNING";3.2;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";205;145;158;139;136;120
+"UV9411";"SHOES";"TRAINING";5.6;"wide";"xxs,xs,s,m,l,xl,xxl";"women";79;148;205;139;136;120
+"UX6851";"SHOES";"TRAINING";5.2;"regular";"xxs,xs,s,m,l,xl,xxl";"women";83;134;139;139;136;120
+"JG1582";"T-SHIRTS";"RUNNING";3.5;"slim";"xxs,xs,s,m,l,xl";"women";255;174;185;255;245;238
+"XU7827";"SWEATSHIRTS";"ORIGINALS";5;"slim";"xs,s,m,l,xl,xxl";"women";79;148;205;255;245;238
+"ZE6328";"SWEATSHIRTS";"RUNNING";4.5;"wide";"xs,s,m,l,xl";"women";255;140;105;255;245;238
+"IB8671";"SWEATSHIRTS";"OUTDOOR";5.2;"slim";"xxs,xs,s,m,l";"women";205;140;149;255;245;238
+"CC8861";"HARDWARE ACCESSORIES";"TRAINING";3.9;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;155;155;255;245;238
+"FE6641";"HARDWARE ACCESSORIES";"SWIM";0.7;"wide";"xs,s,m,l,xl";"women";131;139;131;255;245;238
+"CL8759";"HARDWARE ACCESSORIES";"SWIM";1.4;"wide";"xs,s,m,l,xl";"kids";238;180;34;174;238;238
+"QB6977";"SHORTS";"FOOTBALL LICENSED";2.7;"wide";"xxs,xs,s,m,l,xl,xxl";"women";138;43;226;174;238;238
+"QD9777";"PANTS";"TRAINING";3;"wide";"xxs,xs,s,m,l,xl,xxl";"women";179;238;58;174;238;238
+"PU1185";"SHOES";"ACTIVE CASUAL";6.6;"wide";"xs,s,m,l,xl";"men";135;135;135;181;181;181
+"FJ2121";"SHOES";"FOOTBALL GENERIC";10.5;"slim";"s,m,l,xl";"women";162;181;205;181;181;181
+"TO8135";"HARDWARE ACCESSORIES";"RUNNING";1.4;"wide";"xxs,xs,s,m,l,xl,xxl";"men";0;245;255;181;181;181
+"RX4112";"T-SHIRTS";"TRAINING";3;"regular";"s,m,l,xl,xxl";"women";240;128;128;181;181;181
+"RT6283";"SHOES";"INDOOR";6.3;"wide";"xxs,xs,s,m,l";"women";54;100;139;255;255;240
+"TS8795";"SWEATSHIRTS";"OUTDOOR";6.5;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";162;181;205;255;255;240
+"GS4461";"SHOES";"FOOTBALL GENERIC";12.1;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";0;154;205;255;255;240
+"VW8489";"SHORTS";"OLYMPICS";7;"regular";"xxs,xs,s,m,l,xl,xxl";"men";138;43;226;255;255;240
+"CK7156";"SHOES";"TENNIS";6.3;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;129;98;255;255;240
+"KI2338";"SHOES";"FOOTBALL GENERIC";11.5;"wide";"xs,s,m,l,xl";"women";139;137;137;255;255;240
+"RN4195";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.4;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";164;211;238;255;255;240
+"EZ3428";"SHOES";"OUTDOOR";6.8;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";139;136;120;205;155;29
+"BU9681";"SHOES";"RUNNING";9.1;"slim";"xxs,xs,s,m,l,xl,xxl";"men";255;140;105;205;155;29
+"QV8877";"SHORTS";"BASKETBALL GENERIC";3.5;"slim";"s,m,l,xl";"kids";250;235;215;205;155;29
+"LD8468";"HARDWARE ACCESSORIES";"SWIM";0.6;"slim";"xxs,xs,s,m,l,xl,xxl";"men";205;173;0;205;155;29
+"XU9926";"SHORTS";"FOOTBALL LICENSED";2.6;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";205;140;149;168;168;168
+"CO7738";"T-SHIRTS";"TRAINING";2.7;"slim";"xxs,xs,s,m,l";"women";79;148;205;168;168;168
+"ZV2187";"SHOES";"FOOTBALL GENERIC";11.5;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";143;143;143;168;168;168
+"YX1723";"SHOES";"RUNNING";8.29;"slim";"s,m,l,xl,xxl";"men";72;118;255;240;128;128
+"XG6147";"SHORTS";"RUNNING";3.1;"slim";"xs,s,m,l";"women";218;112;214;240;128;128
+"NQ1161";"SHOES";"INDOOR";6.3;"slim";"xs,s,m,l,xl";"men";205;133;63;240;128;128
+"ZF7765";"PANTS";"TRAINING";3.2;"slim";"xxs,xs,s,m,l,xl,xxl";"women";238;197;145;240;128;128
+"CR8478";"SWEATSHIRTS";"TRAINING";4.2;"regular";"xxs,xs,s,m,l";"unisex";205;140;149;240;128;128
+"AO8265";"SHOES";"RUNNING";7.9;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";205;155;29;240;128;128
+"NE7168";"SHOES";"PORSCHE";19.8;"slim";"xs,s,m,l";"men";238;106;167;179;238;58
+"TM4166";"SWEATSHIRTS";"OUTDOOR";9.1;"slim";"s,m,l,xl,xxl";"women";218;112;214;179;238;58
+"BY9685";"SHOES";"TENNIS";6.3;"wide";"xxs,xs,s,m,l,xl,xxl";"women";255;187;255;179;238;58
+"ZO6398";"HARDWARE ACCESSORIES";"TRAINING";3.6;"regular";"xxs,xs,s,m,l,xl,xxl";"women";205;150;205;179;238;58
+"VX8496";"PANTS";"TRAINING";3.4;"slim";"xxs,xs,s,m,l,xl,xxl";"men";238;180;180;180;205;205
+"YV7315";"SHOES";"TRAINING";6.2;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";54;100;139;180;205;205
+"GD2286";"HARDWARE ACCESSORIES";"TRAINING";1.8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;16;118;180;205;205
+"TN5256";"T-SHIRTS";"RUNNING";3;"regular";"xxs,xs,s,m,l,xl,xxl";"women";205;198;115;180;205;205
+"PL6969";"PANTS";"OUTDOOR";5.6;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";255;245;238;180;205;205
+"WO1329";"SHOES";"BASKETBALL GENERIC";9.8;"regular";"xxs,xs,s,m,l,xl,xxl";"women";238;197;145;180;205;205
+"QS1816";"SHORTS";"TRAINING";2.4;"regular";"xxs,xs,s,m,l,xl,xxl";"men";188;238;104;205;150;205
+"RE8863";"HARDWARE ACCESSORIES";"INDOOR";4.1;"slim";"s,m,l,xl";"kids";205;183;158;205;150;205
+"MW7971";"SHOES";"TRAINING";5.2;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";238;180;180;205;150;205
+"JR8311";"T-SHIRTS";"TRAINING";2.29;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";205;129;98;205;150;205
+"EA9617";"PANTS";"TRAINING";3.1;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";139;10;80;205;41;144
+"SP6977";"SHORTS";"FOOTBALL GENERIC";2.8;"regular";"xs,s,m,l,xl";"women";238;233;191;205;41;144
+"GB6449";"SHOES";"TENNIS";7.7;"wide";"xs,s,m,l";"men";127;127;127;143;143;143
+"PV1343";"SHOES";"TRAINING";5.3;"slim";"xxs,xs,s,m,l,xl,xxl";"men";205;51;51;143;143;143
+"ON6494";"SWEATSHIRTS";"FOOTBALL GENERIC";3.1;"regular";"xxs,xs,s,m,l,xl,xxl";"men";50;205;50;143;143;143
+"BR3179";"T-SHIRTS";"TRAINING";2.4;"slim";"xs,s,m,l,xl,xxl";"women";127;127;127;143;143;143
+"HN6759";"SHOES";"TRAINING";5.6;"slim";"xs,s,m,l";"men";139;137;137;188;238;104
+"CF4856";"SHOES";"RUNNING";8.5;"slim";"xxs,xs,s,m,l,xl,xxl";"women";218;112;214;188;238;104
+"SG6172";"SHOES";"TRAINING";5.4;"slim";"xxs,xs,s,m,l,xl,xxl";"men";248;248;255;188;238;104
+"XC9518";"SHORTS";"FOOTBALL LICENSED";2.5;"wide";"xxs,xs,s,m,l,xl,xxl";"women";139;69;0;188;238;104
+"WJ9718";"T-SHIRTS";"TRAINING";1.9;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";205;155;29;188;238;104
+"FX1729";"SHOES";"FOOTBALL GENERIC";12.2;"wide";"xxs,xs,s,m,l,xl,xxl";"women";220;220;220;188;238;104
+"OZ8992";"SHORTS";"FOOTBALL LICENSED";2.6;"wide";"s,m,l,xl";"women";95;158;160;188;238;104
+"MO9371";"SHOES";"OUTDOOR";8.2;"slim";"xs,s,m,l";"women";205;183;158;189;189;189
+"UN9356";"SHOES";"TRAINING";4.5;"regular";"xxs,xs,s,m,l,xl";"men";205;104;57;135;135;135
+"JY1298";"SWEATSHIRTS";"TRAINING";4.5;"slim";"xxs,xs,s,m,l,xl,xxl";"women";54;100;139;135;135;135
+"LX5774";"T-SHIRTS";"FOOTBALL LICENSED";3.1;"regular";"xxs,xs,s,m,l,xl,xxl";"women";84;139;84;135;135;135
+"DG7643";"SHORTS";"TENNIS";2.9;"regular";"s,m,l,xl,xxl";"women";83;134;139;135;135;135
+"ZD3611";"SWEATSHIRTS";"ORIGINALS";5.4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";0;104;139;135;135;135
+"HQ3171";"SHOES";"OUTDOOR";8.6;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";238;180;180;135;135;135
+"JP9274";"SHOES";"OUTDOOR";8.4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";168;168;168;79;79;79
+"ON9331";"PANTS";"FOOTBALL GENERIC";3.7;"regular";"xs,s,m,l,xl,xxl";"women";209;209;209;79;79;79
+"SA2925";"SHOES";"RUNNING";8.1;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";238;180;180;79;79;79
+"PE5968";"SHOES";"FOOTBALL GENERIC";10.2;"slim";"xxs,xs,s,m,l,xl,xxl";"men";205;41;144;79;79;79
+"AA1821";"T-SHIRTS";"RUNNING";3.2;"wide";"s,m,l,xl,xxl";"unisex";205;133;63;79;79;79
+"UG4425";"SHORTS";"RUNNING";3.4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;104;57;79;79;79
+"WF4276";"SHORTS";"FOOTBALL GENERIC";2.4;"slim";"xs,s,m,l";"women";255;140;105;255;192;203
+"BX8284";"SHORTS";"FOOTBALL LICENSED";2.7;"regular";"xxs,xs,s,m,l,xl";"women";205;201;201;255;192;203
+"NH9366";"SHOES";"TENNIS";9.4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";139;137;137;255;192;203
+"WQ8254";"SHORTS";"TRAINING";2.1;"wide";"xxs,xs,s,m,l,xl,xxl";"men";69;139;116;255;192;203
+"WU2517";"SHOES";"RUNNING";9.8;"slim";"xxs,xs,s,m,l,xl,xxl";"men";191;191;191;255;192;203
+"VA9789";"SHOES";"INDOOR";4.5;"slim";"xxs,xs,s,m,l,xl,xxl";"men";179;238;58;214;214;214
+"YS6935";"SHOES";"ACTIVE CASUAL";11.2;"regular";"xxs,xs,s,m,l,xl,xxl";"women";214;214;214;214;214;214
+"OU5334";"SHOES";"INDOOR";7.8;"regular";"s,m,l,xl";"unisex";255;245;238;218;165;32
+"DZ3492";"SHOES";"RUNNING";8.8;"regular";"xs,s,m,l,xl";"women";238;230;133;218;165;32
+"GZ5576";"SHOES";"RUNNING";7.9;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";205;145;158;218;165;32
+"PY1913";"SHORTS";"RUNNING";3;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";255;255;240;218;165;32
+"ZU2733";"SHOES";"RUNNING";9.4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";205;129;98;0;197;205
+"SE2934";"SHORTS";"TENNIS";2.7;"slim";"xs,s,m,l";"women";205;16;118;36;36;36
+"AL2298";"SHOES";"RUNNING";8.4;"regular";"xxs,xs,s,m,l,xl,xxl";"men";0;197;205;36;36;36
+"HW7772";"SWEATSHIRTS";"FOOTBALL GENERIC";3.4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";72;118;255;36;36;36
+"LT4238";"SHORTS";"TRAINING";1.9;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";218;112;214;36;36;36
+"OA8258";"SHOES";"FOOTBALL GENERIC";4.9;"regular";"xs,s,m,l,xl,xxl";"women";74;112;139;36;36;36
+"VU8833";"T-SHIRTS";"RUNNING";3.8;"slim";"xxs,xs,s,m,l,xl,xxl";"kids";255;130;71;36;36;36
+"PF5685";"SHORTS";"FOOTBALL GENERIC";1.8;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";180;205;205;54;100;139
+"NH7643";"SHOES";"RUNNING";8.1;"regular";"xxs,xs,s,m,l,xl,xxl";"women";181;181;181;54;100;139
+"AD9697";"SHOES";"FOOTBALL GENERIC";13.49;"regular";"xs,s,m,l";"kids";255;187;255;54;100;139
+"WC1828";"SWEATSHIRTS";"OUTDOOR";7.7;"wide";"xs,s,m,l,xl,xxl";"women";205;129;98;54;100;139
+"KV6219";"T-SHIRTS";"TENNIS";4.1;"slim";"xxs,xs,s,m,l,xl,xxl";"women";135;135;135;54;100;139
+"XH6675";"PANTS";"RUNNING";3.8;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";205;51;51;238;180;180
+"EF2771";"SHORTS";"FOOTBALL LICENSED";2.9;"wide";"xxs,xs,s,m,l,xl,xxl";"men";115;115;115;238;180;180
+"PQ4964";"HARDWARE ACCESSORIES";"SWIM";0.4;"wide";"s,m,l,xl,xxl";"women";250;128;114;238;180;180
+"JM7648";"HARDWARE ACCESSORIES";"TRAINING";2.1;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";139;76;57;238;180;180
+"XJ1725";"HARDWARE ACCESSORIES";"TRAINING";1.7;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";255;245;238;238;180;180
+"YS9175";"SHORTS";"TRAINING";2.19;"regular";"xs,s,m,l,xl";"women";250;128;114;238;180;180
+"KT9618";"SHOES";"TENNIS";6.2;"wide";"xxs,xs,s,m,l,xl,xxl";"men";74;112;139;238;180;180
+"ZC7213";"HARDWARE ACCESSORIES";"RUNNING";1.7;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";158;158;158;238;180;180
+"XI2961";"SHOES";"FOOTBALL GENERIC";13.59;"wide";"xxs,xs,s,m,l,xl,xxl";"women";179;238;58;0;205;205
+"TX3691";"SWEATSHIRTS";"TRAINING";4.5;"regular";"xxs,xs,s,m,l,xl,xxl";"women";0;245;255;0;205;205
+"NY5159";"PANTS";"TRAINING";3.7;"slim";"xs,s,m,l,xl,xxl";"women";107;107;107;0;205;205
+"MW3528";"SHOES";"FOOTBALL GENERIC";15.09;"wide";"xxs,xs,s,m,l,xl,xxl";"women";50;205;50;0;205;205
+"CF3238";"SHOES";"TRAINING";3.8;"slim";"xxs,xs,s,m,l";"unisex";127;127;127;0;205;205
+"BW2758";"T-SHIRTS";"RUNNING";2.8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";180;238;180;0;104;139
+"MG2169";"SHOES";"OUTDOOR";8.4;"regular";"xs,s,m,l,xl";"men";191;191;191;0;104;139
+"BJ4373";"SHORTS";"TENNIS";2.9;"regular";"s,m,l,xl,xxl";"women";180;238;180;0;104;139
+"PZ7731";"SHORTS";"TRAINING";2.4;"slim";"xxs,xs,s,m,l,xl";"women";238;180;180;0;104;139
+"YV2782";"SHOES";"OUTDOOR";8.4;"wide";"s,m,l,xl,xxl";"men";205;16;118;0;104;139
+"QG3131";"SWEATSHIRTS";"OUTDOOR";6.3;"regular";"xxs,xs,s,m,l,xl,xxl";"women";139;69;0;0;104;139
+"LX5583";"SHOES";"TRAINING";5.5;"wide";"xxs,xs,s,m,l,xl,xxl";"kids";209;209;209;0;104;139
+"AU7641";"PANTS";"TRAINING";2.9;"wide";"xs,s,m,l";"women";139;10;80;205;16;118
+"XI2814";"SHOES";"OUTDOOR";7.3;"wide";"xxs,xs,s,m,l,xl,xxl";"women";143;143;143;205;16;118
+"JX7462";"SHOES";"FOOTBALL GENERIC";13.09;"regular";"xxs,xs,s,m,l,xl,xxl";"women";205;129;98;205;16;118
+"FJ8179";"SHOES";"RUNNING";8.29;"regular";"s,m,l,xl";"unisex";83;134;139;205;16;118
+"RE8165";"SWEATSHIRTS";"FOOTBALL LICENSED";5.2;"slim";"xs,s,m,l";"women";255;245;238;192;255;62
+"NW3584";"T-SHIRTS";"RUNNING";3.4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";164;211;238;192;255;62
+"OO1497";"SWEATSHIRTS";"TRAINING";4.4;"regular";"xxs,xs,s,m,l,xl,xxl";"unisex";220;220;220;192;255;62
+"FY5273";"HARDWARE ACCESSORIES";"RUNNING";1.4;"regular";"xxs,xs,s,m,l,xl,xxl";"women";139;76;57;220;220;220
+"FE2938";"HARDWARE ACCESSORIES";"TRAINING";1.7;"regular";"xxs,xs,s,m,l,xl,xxl";"kids";139;101;8;220;220;220
+"MJ2618";"SHORTS";"TRAINING";2.9;"regular";"xxs,xs,s,m,l,xl,xxl";"women";158;158;158;220;220;220
+"HN7272";"SHOES";"TRAINING";8.1;"slim";"xxs,xs,s,m,l,xl,xxl";"women";115;115;115;220;220;220
+"SH7883";"HARDWARE ACCESSORIES";"TRAINING";2.8;"slim";"xxs,xs,s,m,l,xl,xxl";"women";0;197;205;220;220;220
+"XH3727";"SHOES";"RUNNING";9.4;"regular";"xs,s,m,l,xl,xxl";"women";240;128;128;220;220;220
+"QC7465";"PANTS";"FOOTBALL GENERIC";4.2;"slim";"xxs,xs,s,m,l,xl,xxl";"unisex";145;145;145;238;233;191
+"VF6733";"SHOES";"FOOTBALL GENERIC";6.4;"regular";"xs,s,m,l,xl";"women";180;238;180;238;233;191
+"FS5149";"SHOES";"INDOOR";5.9;"wide";"xxs,xs,s,m,l,xl,xxl";"unisex";0;205;0;238;233;191
+"CY6963";"SHOES";"TRAINING";4.7;"slim";"xxs,xs,s,m,l,xl,xxl";"women";192;255;62;50;205;50
+"RF6881";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.4;"slim";"xxs,xs,s,m,l,xl,xxl";"women";205;173;0;50;205;50
+"JQ8333";"SHOES";"FOOTBALL GENERIC";5.7;"slim";"xxs,xs,s,m,l,xl,xxl";"women";139;101;8;50;205;50
+"EF6812";"T-SHIRTS";"TRAINING";2.29;"slim";"xxs,xs,s,m,l";"women";205;198;115;50;205;50
+"ON4163";"SHOES";"TRAINING";11.4;"regular";"xs,s,m,l,xl";"women";162;181;205;50;205;50
+"YK5786";"HARDWARE ACCESSORIES";"FOOTBALL GENERIC";0.7;"wide";"xxs,xs,s,m,l,xl,xxl";"men";154;205;50;50;205;50
+"WL2581";"SHOES";"FOOTBALL GENERIC";9.5;"regular";"s,m,l,xl";"women";238;180;180;209;209;209
+"BF7554";"PANTS";"TRAINING";3.2;"wide";"s,m,l,xl";"women";209;209;209;209;209;209
+"QT7325";"SHOES";"OUTDOOR";8.4;"slim";"xs,s,m,l,xl";"women";238;220;130;209;209;209
+"OI4367";"SHOES";"TRAINING";7.1;"regular";"xxs,xs,s,m,l,xl,xxl";"women";84;139;84;139;137;137
+"CJ4578";"HARDWARE ACCESSORIES";"TRAINING";2.1;"wide";"s,m,l,xl";"women";143;143;143;139;137;137
+"KF7125";"SHOES";"RELAX CASUAL";10.8;"regular";"xxs,xs,s,m,l,xl,xxl";"women";248;248;255;139;137;137
+"MP6772";"HARDWARE ACCESSORIES";"FOOTBALL LICENSED";0.4;"wide";"xxs,xs,s,m,l,xl,xxl";"women";238;233;191;139;137;137
+"SL9748";"HARDWARE ACCESSORIES";"TRAINING";2.7;"slim";"xxs,xs,s,m,l,xl,xxl";"women";248;248;255;139;137;137
